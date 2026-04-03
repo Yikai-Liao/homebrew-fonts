@@ -1,6 +1,6 @@
 cask "font-lxgw-wenkai-mono-nerd" do
   version "1.522"
-  sha256 "1deb14f5545bd2e9b666b2ad131c5bce61c14461b84254bfb7db58826be0c08e"
+  sha256 "df588b8c8cad637d285493745aa018145d52df05720975224ba75e5d08f33e21"
 
   url "https://github.com/Yikai-Liao/LxgwWenKaiNerdFont/releases/download/v1.522/lxgw-wenkai-nerd-mono-1.522.zip",
       verified: "github.com/Yikai-Liao/LxgwWenKaiNerdFont/"
