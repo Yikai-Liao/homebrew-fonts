@@ -1,6 +1,6 @@
 cask "font-lxgw-wenkai-nerd" do
   version "1.522"
-  sha256 "869ff25053761f63d0cb36ebcdc87e7dcbfc888a9e9c8c89a7ccf2bdfede9126"
+  sha256 "cabd30abdbafdff7034fce4e4f9de5ed165d8fb8e851f892b0b3f56517d05f41"
 
   url "https://github.com/Yikai-Liao/LxgwWenKaiNerdFont/releases/download/v1.522/lxgw-wenkai-nerd-proportional-1.522.zip",
       verified: "github.com/Yikai-Liao/LxgwWenKaiNerdFont/"
